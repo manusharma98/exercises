@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = https://github.com/info201/ch4-git-basics
-	branch = master
-	commit = d949e2a705af2aa52a955547ec8fab89cb545cd5
-	parent = 7efc8cf58e0c6deee71672a3020a718193c14e4e
+	branch = solution
+	commit = 1ce0dcc4e70c0f991c524195dd8891032fc75a68
+	parent = 2062358f9af15bd994fe90d96c1931739e8988be
 	cmdver = 0.3.1
