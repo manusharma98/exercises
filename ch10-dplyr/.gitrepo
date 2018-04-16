@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = https://github.com/info201/ch10-dplyr
-	branch = master
-	commit = 6cde908a279c888f819915a4b7a53bcae7eb21c1
-	parent = a4fc7239f2e21be7a70d0073787c2a7a002c9c6b
+	branch = solution
+	commit = e54120495a8158b8c930f0affaa0ab14a4135a68
+	parent = 0f510f2eb8d79df1d00ef37f66b411c57032417c
 	cmdver = 0.3.1
