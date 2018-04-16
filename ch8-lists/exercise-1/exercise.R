@@ -9,7 +9,7 @@
 # Create a list `meals` that has contains your breakfast and lunch
 
 
-# Add a "dinner" element to your `meals`` list that has what you plan to eat 
+# Add a "dinner" element to your `meals` list that has what you plan to eat 
 # for dinner
 
 

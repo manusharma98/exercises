@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/info201/ch8-lists
 	branch = master
-	commit = b8f5d8b4c3655f5334cf81d187e8eb9f9a41357e
-	parent = 1c7d90b78fea80924af5bec37bd99374b6133bae
+	commit = 1d432498af88d08cfdbe0d031b115a9b882233e5
+	parent = a32bea0b8b47527d3b94c1c27493a473e609aac5
 	cmdver = 0.3.1
