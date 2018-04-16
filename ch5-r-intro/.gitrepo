@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = https://github.com/info201/ch5-r-intro
-	branch = master
-	commit = a260875a116735b2c215ffab1575ac23f166bb1f
-	parent = 4ce352832499fca8fa5c2dfb8ed5a1b66441c708
+	branch = solution
+	commit = 6844d57e92d81ff9e39bba9d6beba3b3e755ca61
+	parent = 2c18d0dd1620d36f53d76d78f72a399a4aa0babb
 	cmdver = 0.3.1
