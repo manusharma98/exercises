@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = https://github.com/info201/ch7-vectors
-	branch = master
-	commit = 0a3d2badab8c83928eff03f67927ebbefe8651b2
-	parent = a6e33de06e36c3d903aa40e699609335a31f8650
+	branch = solution
+	commit = 44cd23b84efd8d4efc031a6de940896e7c3f4383
+	parent = 93555ca6f7713a39d4b3fca2667cd4d343d2c628
 	cmdver = 0.3.1
