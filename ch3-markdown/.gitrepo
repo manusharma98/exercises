@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = https://github.com/info201/ch3-markdown
-	branch = master
-	commit = 4bb54766a82b719bb01a8977ff7c6be38b5d5534
-	parent = e22cd23c864cc6551ce8c1ab95dec1ed52e76ebd
+	branch = solution
+	commit = b9a2740170cc7932050afd1085d677ade14fc453
+	parent = 3bf1231aea6819c231b63dc30170203345efb211
 	cmdver = 0.3.1
