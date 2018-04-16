@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = https://github.com/info201/ch2-command-line
-	branch = master
-	commit = d477a80e131d04d7ac90ae46b0bea2e9ec7843d3
-	parent = 8699667f6c61fbdf42e126bf472c9ec9de757f4f
+	branch = solution
+	commit = 623ada05cd92f0b1be51b42e1c3d12c9557cb6b8
+	parent = 878ad2e076d6f0abe0778ad9db325c23ff329b50
 	cmdver = 0.3.1
